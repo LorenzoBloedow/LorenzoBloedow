@@ -17,3 +17,5 @@
 
 ★ Function that returns the corresponding programming language associated with a given filename in O(1) time.</br>
 ➜ `npm install detect-programming-language`
+
+![](https://komarev.com/ghpvc/?username=LorenzoBloedow&color=brightgreen)
