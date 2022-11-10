@@ -1,10 +1,8 @@
-# Hi there 👋
-
-👉 [My portfolio](https://lorenzobloedow.com) 
+![Metrics](/github-metrics.svg)
 
 <!-- [My developerlookup](https://developerlookup.com/LorenzoBloedow) -->
-
-## My published npm packages:
+<hr />
+<h3>My published npm packages:</h3>
 
 ★ Extensive JavaScript Math library with TypeScript support.</br>
 ➜ `npm install BloatedMath`
@@ -17,5 +15,5 @@
 
 ★ Function that returns the corresponding programming language associated with a given filename in O(1) time.</br>
 ➜ `npm install detect-programming-language`
-
-![](https://komarev.com/ghpvc/?username=LorenzoBloedow&color=brightgreen)
+<hr />
+<a href="https://lorenzobloedow.com">My portfolio</a>
