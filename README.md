@@ -15,5 +15,8 @@
 
 ★ Function that returns the corresponding programming language associated with a given filename in O(1) time.</br>
 ➜ `npm install detect-programming-language`
+
+★ Function that returns whether one day has passed between two dates by only checking the year, month and day.</br>
+➜ `npm install is-consecutive-day`
 <hr />
 <a href="https://lorenzobloedow.com">My portfolio</a>
