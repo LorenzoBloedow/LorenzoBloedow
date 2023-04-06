@@ -19,4 +19,9 @@
 ★ Function that returns whether one day has passed between two dates by only checking the year, month and day.</br>
 ➜ `npm install is-consecutive-day`
 <hr />
+
+★ A powerful wrapper for Firestore's `getDoc` method, with cache and retry support!</br>
+➜ `npm install firestore-get-doc-wrapper`
+<hr />
+
 <a href="https://lorenzobloedow.com">My portfolio</a>
