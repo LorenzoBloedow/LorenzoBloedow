@@ -30,3 +30,4 @@
 
 ★ Adds support for the `safe` and `unsafe` keyword in Tailwind</br>
 ➜ `npm install tailwind-safe-container`
+<hr />
