@@ -2,7 +2,7 @@
 
 <!-- [My developerlookup](https://developerlookup.com/LorenzoBloedow) -->
 <hr />
-<h3>My published npm packages:</h3>
+<h3>My NPM packages:</h3>
 
 ★ Extensive JavaScript Math library with TypeScript support.</br>
 ➜ `npm install BloatedMath`
